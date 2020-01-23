@@ -2,11 +2,11 @@ h1{
     text-align: center;
     font-family: monospace;
     font-style: italic;
-    color :white;
+    color:white;
     font-size : 80px; 
     background-color:pink;
 }
-h2{
+p{
     align-content: center;
     position: relative;
     padding: 50px 50px;

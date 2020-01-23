@@ -4,10 +4,14 @@ h1{
     font-style: italic;
     color :white;
     font-size : 80px; 
+    background-color:pink;
 }
 h2{
     align-content: center;
+    position: relative;
+    padding: 50px 50px;
+    background-color:pink;
 }
-body{
-    color: pink; 
+*{
+    background-color: pink;
 }

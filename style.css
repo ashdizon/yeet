@@ -7,11 +7,15 @@ h1{
     background-color:pink;
 }
 p{
-    align-content: center;
+    text-align: center;
     position: relative;
     padding: 50px 50px;
     background-color:pink;
 }
 *{
     background-color: pink;
+}
+video{
+    display:block;
+    margin: 0 auto;
 }
